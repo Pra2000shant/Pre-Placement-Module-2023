@@ -1,6 +1,6 @@
 # Pre-Placement-Module-2023
 
-- Name: Prasant kumar 
+- Name: Prashant kumar 
 - University Roll No.:2000290009014
 - Branch:civil enggneering
 - Section:B
