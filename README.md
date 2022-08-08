@@ -1,9 +1,9 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name: Prasant kumar 
+- University Roll No.:2000290009014
+- Branch:civil enggneering
+- Section:B
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
